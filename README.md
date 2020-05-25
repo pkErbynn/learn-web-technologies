@@ -8,6 +8,7 @@ In this workshop we start from nothing and incrementally build up backend and th
 The tutorial is a mixture of mini comprehensive presentation sessions(...to explain theoretical concepts), sample codes and hands on lab exercises.
 
 #### Prerequisites
-- 
+- NO advanced or expert knowledge about any of these topics is assumed or required.
+- Fundamentals of programming knowledge either in Java or C#
 - A passion for wanting to learn how to build Web Applications.
 
