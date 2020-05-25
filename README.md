@@ -1,4 +1,4 @@
 # Learn Web
 ## (Building Backend of Web Application with Java)
 
-git remote set-url origin git@github.com:pkErbynn/learn-web.git
+In this tutorial we will explore building backend of a Web Application with Java. This includes version control(Git & GitHub), databases, APIs(using Spring Boot).
