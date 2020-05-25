@@ -16,6 +16,7 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - Git & GitHub
 - Databases
 - Java (Classes, OOP, Interfaces, Inheritances, Generics)
+- Heroku and Postgres Database
 - Spring Boot
 
 #### Feedback
