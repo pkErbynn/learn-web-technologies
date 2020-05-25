@@ -38,7 +38,8 @@ or with shortcut
 <br>
 Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
 
-<br><br>
+<br>
+<br>
 Thanks. 
 
 Cheers.
