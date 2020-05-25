@@ -12,3 +12,10 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - Fundamentals of programming knowledge either in Java or C#
 - A passion for wanting to learn how to build Web Applications.
 
+#### Feedback
+Any feedback, suggestions, concerns and PRs are welcome and would be greatly appreciated.
+
+
+#### Instructor
+
+- John Pk Erbynn ([john.erbynn@turntabl.io](dawud.ismail@turntabl.io))
