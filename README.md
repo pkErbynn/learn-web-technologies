@@ -12,6 +12,11 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - Fundamentals of programming knowledge either in Java or C#
 - A passion for wanting to learn how to build Web Applications.
 
+#### Modules
+- Git & GitHub
+- Databases
+- Java (Clases, OOP, Interfaces, Inheritances, Generics)
+
 #### Feedback
 Any feedback, suggestions, concerns and PRs are welcome and would be greatly appreciated.
 
