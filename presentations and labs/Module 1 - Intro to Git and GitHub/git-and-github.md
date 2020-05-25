@@ -20,12 +20,19 @@ or with shortcut
 ``$ git checkout -b <branch-name>
 ``
 4. Create two new files, *file1* and *file2*. Add some text to each of them. Stage the two files with ``git add .`` . Use ```git status``` to investigate the status of the two files.
+
 5. Commit the files. Use ```git status``` to investigate the status of your repository.
+
 6. Let's add some more text to one of the files. Check the status to know which file changed and stage them.  Now check the status again to verify theythe files with 'git add .''re staged(the files should turn green)  and then commit them.
+
 7. Push your branch to the remote repository on GitHub.
+
 8. Add a paragraph to file2. Check status. Stage and commit with the message, "add paragraph".
+
 9. Check your commit logs with ``git log`` or ``git log --oneline``. Analyze the difference b/n the two.
+
 10. Add another line of text to file2. Check status. Stage and commit with the message, "add another line".
+
 11. Finally, revert file2 to the previous version. One with the commit message, "add paragraph". 🙂
 
 And please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
