@@ -15,7 +15,7 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 #### Modules
 - Git & GitHub
 - Databases
-- Java (Clases, OOP, Interfaces, Inheritances, Generics)
+- Java (Classes, OOP, Interfaces, Inheritances, Generics)
 
 #### Feedback
 Any feedback, suggestions, concerns and PRs are welcome and would be greatly appreciated.
