@@ -12,6 +12,6 @@
 
 ## Labs - 02
 * Setup up a local Postgres database 
-* Create db with DDL
+* Create simple table with DDL
 * Insert records with DML
 * Fetch records with SELECT query
