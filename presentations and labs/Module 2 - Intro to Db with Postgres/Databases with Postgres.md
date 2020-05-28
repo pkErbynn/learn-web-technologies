@@ -23,5 +23,9 @@
     * last_name
     * email
     * address
-* With DML, INSERT, insert 5 records into the relation.
+    
+* With DML, INSERT, insert 5 records into the relation. Sample: 
+```roomsql
+INSERT INTO students VALUES(1, 'pk', 'erbynn', 'john.erbynn@turntabl.io', 'taifa, accra, ghana');
+```
 * Fetch records with SELECT query
