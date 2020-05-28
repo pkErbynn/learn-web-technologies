@@ -12,6 +12,11 @@
 
 ## Labs - 02
 * In case you've not setup a local Postgres yet, follow a quick step-by-step guide [here](https://www.postgresqltutorial.com/install-postgresql/) 
-* Create simple table with DDL
+* With DDL, a table called *students* with the attributes:
+    * student_id
+    * first_name
+    * last_name
+    * email
+    * address
 * Insert records with DML
 * Fetch records with SELECT query
