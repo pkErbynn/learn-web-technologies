@@ -12,7 +12,7 @@
 
 ## Labs - 02
 * In case you've not setup a local Postgres yet, follow a quick step-by-step guide [here](https://www.postgresqltutorial.com/install-postgresql/). 
-* You might need to add  
+* You might need to add paths, ``.../bin`` and ``.../lib``, to the windows system environment variables.
 * In short, for linux;
     ```aidl
     sudo apt-get install postgresql
