@@ -24,8 +24,17 @@
     * email
     * address
     
+    ```roomsql
+          CREATE TABLE students (
+              student_id smallint NOT NULL,
+              student_first_name character varying(20) NOT NULL,
+              student_last_name character varying(20) NOT NULL,
+              student_email character varying(20) NOT NULL,
+              student_address character varying(40) NOT NULL
+          );
+    ```
 * With DML, INSERT, insert 5 records into the relation. Sample: 
-```roomsql
-INSERT INTO students VALUES(1, 'pk', 'erbynn', 'john.erbynn@turntabl.io', 'taifa, accra, ghana');
-```
+    ```roomsql
+    INSERT INTO students VALUES(1, 'pk', 'erbynn', 'john.erbynn@turntabl.io', 'taifa, accra, ghana');
+    ```
 * Fetch records with SELECT query
