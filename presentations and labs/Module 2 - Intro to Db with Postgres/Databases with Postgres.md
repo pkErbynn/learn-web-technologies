@@ -38,11 +38,10 @@
     ```roomsql
      INSERT INTO students VALUES(1, 'pk', 'erbynn', 'john.erbynn@turntabl.io', 'taifa, accra, ghana');
     ```
-
 * Fetch all records with SELECT query.
     ```roomsql
       SELECT * FROM students;
     ```
-  
-* Show the emails of all student.
-* 
+* Show only the first names and emails of all student.
+* Show only the first names and emails of the first three students.
+* Show a student with a particular first name using WHERE clause.
