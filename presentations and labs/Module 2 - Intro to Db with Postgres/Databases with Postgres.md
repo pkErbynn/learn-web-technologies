@@ -44,4 +44,4 @@
     ```
 * Show only the first names and emails of all student.
 * Show only the first names and emails of the first three students.
-* Show a student with a particular first name using WHERE clause.
+* Show a student with a particular first name using the WHERE clause.
