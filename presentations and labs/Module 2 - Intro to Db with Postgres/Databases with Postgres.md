@@ -49,4 +49,6 @@
 * Display the student with the high score.
 * What is the total score of all the students?
 * Stretch 
-    * Create another possible table and make a reference to it from the student table 
+    * Create another possible table and make a reference to it from the student table using a foreign key.
+    * 
+     
