@@ -42,6 +42,11 @@
     ```roomsql
       SELECT * FROM students;
     ```
-* Show only the first names and emails of all student.
+* Show only the first names and emails of all students.
+* Show only the first names and emails of all students order by name.
 * Show only the last names and emails of the first three students.
 * Show a student with a particular first name using the WHERE clause.
+* Display the student with the high score.
+* What is the total score of all the students?
+* Stretch 
+    * Create another possible table and make a reference to it from the student table 
