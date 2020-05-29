@@ -22,7 +22,7 @@
     * first_name
     * last_name
     * email
-    * address
+    * score
     
     ```roomsql
       CREATE TABLE students (
@@ -30,18 +30,18 @@
           student_first_name character varying(20) NOT NULL,
           student_last_name character varying(20) NOT NULL,
           student_email character varying(20) NOT NULL,
-          student_address character varying(40) NOT NULL
+          student_score real NOT NULL
       );
     ```
   
 * With DML, INSERT, insert 5 records into the relation. Sample: 
     ```roomsql
-     INSERT INTO students VALUES(1, 'pk', 'erbynn', 'john.erbynn@turntabl.io', 'taifa, accra, ghana');
+     INSERT INTO students VALUES(1, 'pk', 'erbynn', 'john.erbynn@turntabl.io', 82.5);
     ```
 * Fetch all records with SELECT query.
     ```roomsql
       SELECT * FROM students;
     ```
 * Show only the first names and emails of all student.
-* Show only the first names and emails of the first three students.
+* Show only the last names and emails of the first three students.
 * Show a student with a particular first name using the WHERE clause.
