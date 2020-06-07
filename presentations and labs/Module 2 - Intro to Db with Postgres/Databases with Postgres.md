@@ -49,7 +49,7 @@
 * Display the student with the high score.
 * What is the total score of all the students?
 * Stretch 
-    * Relation join illustration
+    * Entity relation join illustration
     ![](entity-relation-joins.pdf)
     * Create another possible table(say courses) and make a reference to it from the student table using a foreign key.
     * Query a full detail of student in relation to the new table(courses) using INNER JOIN.
