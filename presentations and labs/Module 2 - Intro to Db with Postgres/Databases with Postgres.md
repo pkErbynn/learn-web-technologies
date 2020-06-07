@@ -6,7 +6,7 @@
     * Primary DBMS languages
     * Relational modelling
     * Database design views
-    * SQL
+    * SQL(Create, Select, Insert, Aggregation & grouping, Joins)
 
 * Slides available [here](https://docs.google.com/presentation/d/1CuvzXJ5ebdV-zoUfpcPn4WNDjiJBp4CEcWFD5lAeUiw/edit?usp=sharing).
 
