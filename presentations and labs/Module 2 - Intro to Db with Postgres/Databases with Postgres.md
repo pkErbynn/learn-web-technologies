@@ -60,10 +60,10 @@
     
 
 NB:
-* table names should be plural(example, *students*)
-* lower casing(with underscore '_' separation, if two words or more) for attributes
-* use single quote marks(' ') for simple literal strings in SQL 
-* for relation joins, consider creating dependency relation first
+> * table names should be plural(example, *students*)
+> * lower casing(with underscore '_' separation, if two words or more) for attributes
+> * use single quote marks(' ') for simple literal strings in SQL 
+> * for relation joins, consider creating dependency relation first
  
 <br>
 Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
