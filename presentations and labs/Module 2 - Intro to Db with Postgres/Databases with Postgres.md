@@ -56,6 +56,20 @@
     </p>
     
     * Create another possible table(say courses) and make a reference to it from the student table using a foreign key.
+        ```roomsql
+              create table courses(
+                course_id int primary key,
+                course_name varchar(50) not null,
+                course_description varchar(100) not null
+              );
+              
+              create table students(
+                student_id int primary key,
+                student_name varchar(30) not null,
+                student_address varchar(40) not null,
+                course_id integer references courses(course_id)
+              );
+        ```
     * Query a full detail of student in relation to the new table(courses) using INNER JOIN.
     
 
