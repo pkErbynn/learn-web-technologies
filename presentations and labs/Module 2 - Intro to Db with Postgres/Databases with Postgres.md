@@ -58,3 +58,10 @@
     * Create another possible table(say courses) and make a reference to it from the student table using a foreign key.
     * Query a full detail of student in relation to the new table(courses) using INNER JOIN.
     
+<br>
+Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
+
+<br>
+Thanks. 
+
+Cheers.
