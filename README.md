@@ -23,4 +23,4 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 Any feedback, suggestions, concerns and PRs are welcome and would be greatly appreciated.
 
 #### Instructor
-- John Pk Erbynn ([john.erbynn@turntabl.io](dawud.ismail@turntabl.io))
+- John Erbynn ([john.erbynn@turntabl.io](dawud.ismail@turntabl.io))
