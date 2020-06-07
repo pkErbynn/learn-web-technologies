@@ -59,6 +59,7 @@
     * Query a full detail of student in relation to the new table(courses) using INNER JOIN.
     
 ###NB: 
+
 * ddd
 *
 <br>
