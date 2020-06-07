@@ -51,7 +51,11 @@
 * Stretch 
     * Below an illustration of entity relation join
     ![](er-join.png)
+    
+    <p align="center">
     <img src="er-join.png" width="450">
+    </p>
+    
     * Create another possible table(say courses) and make a reference to it from the student table using a foreign key.
     * Query a full detail of student in relation to the new table(courses) using INNER JOIN.
     
