@@ -16,7 +16,7 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - [Git & GitHub](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%201%20-%20Intro%20to%20Git%20and%20GitHub/git-and-github.md)
 - [Databases](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%202%20-%20Intro%20to%20Db%20with%20Postgres/Databases%20with%20Postgres.md)
 - [Java (Classes, OOP, Interfaces, Inheritances, Generics)](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%203%20-%20Java/java.md)
-- Heroku and Postgres Database
+- [Heroku Postgres]()
 - Spring Boot
 
 #### Feedback
