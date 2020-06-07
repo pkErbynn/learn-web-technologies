@@ -57,7 +57,7 @@
     
     * Create another possible table(say courses) and make a reference to it from the student table using a foreign key.
     * Query a full detail of student in relation to the new table(courses) using INNER JOIN. 
-    * > Hints: [sample here.](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%202%20-%20Intro%20to%20Db%20with%20Postgres/relation-joins.sql)
+    * > Hint: [sample here.](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%202%20-%20Intro%20to%20Db%20with%20Postgres/relation-joins.sql)
     
 
 NB:
