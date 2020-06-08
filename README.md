@@ -17,10 +17,10 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - [Databases](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%202%20-%20Intro%20to%20Databases%20with%20Postgres/Databases%20with%20Postgres.md)
 - [Java (Classes, OOP, Interfaces, Inheritances, Generics)](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%203%20-%20Java/java.md)
 - [Heroku Postgres]()
-- [Spring Boot]()
+- [API with Spring Boot]()
 
 #### Feedback
 Any feedback, suggestions, concerns and PRs are welcome and would be greatly appreciated.
 
 #### Instructor
-- John Erbynn ([john.erbynn@turntabl.io](dawud.ismail@turntabl.io))
+- John PK Erbynn ([john.erbynn@turntabl.io](dawud.ismail@turntabl.io))
