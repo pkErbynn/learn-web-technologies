@@ -1,5 +1,11 @@
 # Introduction to Git and Github
-## Presentation 
+## Presentation
+* Core topics includes
+    * What and why version controls
+    * Git workflow
+    * Undoing/reverting
+    * Branching and merging
+    * Github exploration
 Slides available [here](https://docs.google.com/presentation/d/13b_j3seC4H-sf7K7gbHMpaCzajgHeIZ8_g6VzDUmn18/edit?usp=sharing).
 
 ## Labs - 01
