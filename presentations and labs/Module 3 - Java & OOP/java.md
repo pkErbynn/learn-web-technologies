@@ -18,9 +18,9 @@
 [.](https://github.com/pkErbynn/projects-microservice/tree/threaded-cli-ui/src/main/java/io/turntable/projectwebservice)
 
 ## Labs - 02
-### Setup
-* In case you've not setup IntelliJ, download the community version of [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows). Choose your OS.
-### Code
+### 
+* Setup: In case you've not setup IntelliJ, download the community version of [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows). Choose your OS.
+* In a university domain, find two has-a relationships.
 * ...
 
 <br>
