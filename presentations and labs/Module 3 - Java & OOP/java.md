@@ -4,19 +4,15 @@
 * Core topics includes
     * Objects and Classes
         * Encapsulation
-        * Class Design
         * Polymorphism
     * 
     
 * Slides available [here](https://docs.google.com/presentation/d/1CuvzXJ5ebdV-zoUfpcPn4WNDjiJBp4CEcWFD5lAeUiw/edit?usp=sharing).
 
 
-https://github.com/pkErbynn/projects-microservice/tree/threaded-cli-ui/src/main/java/io/turntable/projectwebservice
+[.](https://github.com/pkErbynn/projects-microservice/tree/threaded-cli-ui/src/main/java/io/turntable/projectwebservice)
 
-Download the community version of [IntelliJ](https://www.jetbrains.com/idea/download/#section=windows). Choose your OS.
-
-Create a Lecture class. Consider carefully the relationship between Lecture and Student. Create a function on Lecture called Enter, which takes a student as a parameter. Create a function called getHighestAverageGrade and test that it returns the correct result.
-
+[^](https://github.com/pkErbynn/04-tlc-java-sample/tree/master/src/io/turntabl/university)
 
 ## Labs - 02
 ### Setup
