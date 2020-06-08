@@ -1,6 +1,7 @@
 # Java Programming Language & OOP
 
 ## Presentation
+* Hands-on practice introduction
 * Core topics includes
     * Objects and Classes
         * encapsulation
