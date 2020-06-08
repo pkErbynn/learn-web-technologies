@@ -3,6 +3,7 @@
 * Core topics includes
     * What and why version controls
     * Git workflow
+    * Basic useful git commands
     * Undoing/reverting
     * Branching and merging
     * Github exploration
