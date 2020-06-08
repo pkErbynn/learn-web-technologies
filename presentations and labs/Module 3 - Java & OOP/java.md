@@ -10,9 +10,9 @@
 * Slides available [here](https://docs.google.com/presentation/d/1JWxiHHf01sNBmsMSi3QcVnVFChNKkIjbZEDgm1idGZE/edit?usp=sharing).
 
 
-[.](https://github.com/pkErbynn/projects-microservice/tree/threaded-cli-ui/src/main/java/io/turntable/projectwebservice)
-
 [^](https://github.com/pkErbynn/04-tlc-java-sample/tree/master/src/io/turntabl/university)
+
+[.](https://github.com/pkErbynn/projects-microservice/tree/threaded-cli-ui/src/main/java/io/turntable/projectwebservice)
 
 ## Labs - 02
 ### Setup
