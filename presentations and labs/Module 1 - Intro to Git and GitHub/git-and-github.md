@@ -46,7 +46,7 @@ or with shortcut
 
 ### Articles
 - [Getting all your commits in your contribution graph](https://github.community/t/getting-all-your-commits-in-your-contributions-graph/10186)
-
+- [Pushing to Github without username and password via SSH](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 <br>
 Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
 
