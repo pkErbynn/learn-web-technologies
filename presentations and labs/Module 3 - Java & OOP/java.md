@@ -3,8 +3,11 @@
 ## Presentation
 * Core topics includes
     * Objects and Classes
-        * Encapsulation
-        * Polymorphism
+        * encapsulation
+        * polymorphism
+        * constructors
+        * 'this' keyword
+    * Has-A relationship
     * 
     
 * Slides available [here](https://docs.google.com/presentation/d/1JWxiHHf01sNBmsMSi3QcVnVFChNKkIjbZEDgm1idGZE/edit?usp=sharing).
