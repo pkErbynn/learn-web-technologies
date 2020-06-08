@@ -44,6 +44,9 @@ or with shortcut
 
 * Finally, revert file2 to the previous version. One with the commit message, "add paragraph". 🙂
 
+### Articles
+- [Getting all your commits in your contribution graph](https://github.community/t/getting-all-your-commits-in-your-contributions-graph/10186)
+
 <br>
 Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
 
