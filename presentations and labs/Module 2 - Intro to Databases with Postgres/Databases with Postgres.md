@@ -1,6 +1,9 @@
 # Intro to Databases with PostgreSQL
 
 ## Presentation
+* Hands-on practice introduction
+    * Create table
+    * Select and Insert queries
 * Core topics includes
     * Database concepts
     * Primary DBMS languages
