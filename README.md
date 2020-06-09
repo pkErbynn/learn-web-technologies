@@ -13,6 +13,10 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - A passion for wanting to learn how to build Web Applications.
 - Require working laptop, headset/earpiece and internet connectivity.
 
+#### Timing/Duration
+- Weekly on Friday, until Aug 31, 2020
+- 20 consecutive Friday, 1 hour each
+
 #### Modules
 - [Git & GitHub](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%201%20-%20Intro%20to%20Git%20and%20GitHub/git-and-github.md)
 - [Databases](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%202%20-%20Intro%20to%20Databases%20with%20Postgres/Databases%20with%20Postgres.md)
