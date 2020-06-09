@@ -15,7 +15,7 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 
 #### Timing/Duration
 - Weekly on Friday, until Aug 31, 2020
-- 20 consecutive Friday, 1 hour each
+- 20 consecutive Fridays, 1 hour each
 
 #### Modules
 - [Git & GitHub](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%201%20-%20Intro%20to%20Git%20and%20GitHub/git-and-github.md)
