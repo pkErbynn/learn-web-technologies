@@ -11,6 +11,7 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - NO advanced or expert knowledge about any of these topics is assumed or required.
 - Fundamentals of programming knowledge(Java, Python, C++, etc)
 - A passion for wanting to learn how to build Web Applications.
+- Require working laptop, headset/earpiece and internet connectivity.
 
 #### Modules
 - [Git & GitHub](https://github.com/pkErbynn/learn-web/blob/master/presentations%20and%20labs/Module%201%20-%20Intro%20to%20Git%20and%20GitHub/git-and-github.md)
