@@ -27,6 +27,7 @@ The tutorial is a mixture of mini comprehensive presentation sessions(...to expl
 - [Heroku Postgres]()
 - [Data Access with JDBC]()
 - [APIs with Spring Boot]()
+- [UI with Angular]()
 
 #### Feedback
 Any feedback, suggestions, concerns and PRs are welcome and would be greatly appreciated.
