@@ -26,6 +26,7 @@
 * ...
 
 ### Other Lookups & Resources
+ - [W3 Schools - Java Classes](https://www.w3schools.com/java/java_oop.asp)
  - [Java Head-First](https://drive.google.com/file/d/1-C3exbKz8Eg7b5a8aiVwwV6_JQJrydhu/view?usp=sharing)
 
 <br>
