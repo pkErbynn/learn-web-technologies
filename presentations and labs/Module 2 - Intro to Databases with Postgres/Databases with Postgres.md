@@ -73,7 +73,9 @@ NB:
  - [W3 schools dbms](https://www.w3schools.in/dbms/)
  - [PostgreSQL tutorial](https://www.postgresqltutorial.com/)
  - [Tutorialpoint - Learn PostgreSQL](https://www.tutorialspoint.com/postgresql/postgresql_group_by.htm)
- - [Lucidchart - Database diagram design tool](https://www.lucidchart.com/pages/) 
+ - [YouTube - Entity Relationship Diagram (ERD) Tutorial](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+ - [ER diagram tutorial](https://www.guru99.com/er-diagram-tutorial-dbms.html) 
+ - [ERD - Database(ER) design tool](https://erdplus.com/) 
 
 <br>
 Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
