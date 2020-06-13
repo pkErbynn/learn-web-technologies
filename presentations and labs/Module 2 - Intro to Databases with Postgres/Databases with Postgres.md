@@ -69,9 +69,14 @@ NB:
 > * use single quote marks(' ') for simple literal strings in SQL 
 > * for relation joins, consider creating dependency relation first
  
+ ### Other Lookups & Resources
+ - [W3 schools dbms](https://www.w3schools.in/dbms/)
+ - [PostgreSQL tutorial](https://www.postgresqltutorial.com/)
+ - [Tutorialpoint - Learn PostgreSQL](https://www.tutorialspoint.com/postgresql/postgresql_group_by.htm)
+ - [Lucidchart - Database diagram design tool](https://www.lucidchart.com/pages/) 
+
 <br>
 Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
-
 <br>
 Thanks. 
 
