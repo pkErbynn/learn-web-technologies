@@ -50,6 +50,7 @@ or with shortcut
 - [An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [Pushing to Github without username and password via SSH](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)
 - [Getting all your commits in your contribution graph](https://github.community/t/getting-all-your-commits-in-your-contributions-graph/10186)
+- [GitHub leaning lab ](https://lab.github.com/)
 
 <br>
 Please, kindly don't hesitate to hit me up for any question, concern, or clarification on the slides or on the deliverables. 
