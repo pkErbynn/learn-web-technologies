@@ -8,8 +8,9 @@
         * polymorphism
         * constructors
         * 'this' keyword
-    * Has-A relationship
-    * 
+    * Inheritance / Has-A relationship
+    * Interfaces
+    * Generics
     
 * Slides available [here](https://docs.google.com/presentation/d/1JWxiHHf01sNBmsMSi3QcVnVFChNKkIjbZEDgm1idGZE/edit?usp=sharing).
 
