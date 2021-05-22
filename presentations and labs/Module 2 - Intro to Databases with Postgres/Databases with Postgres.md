@@ -27,7 +27,7 @@
     * email
     * score
     
-    ```roomsql
+    ```sql
       CREATE TABLE students (
           student_id smallint NOT NULL,
           student_first_name character varying(20) NOT NULL,
@@ -38,11 +38,11 @@
     ```
   
 * With DML, INSERT, insert 5 records into the relation. Sample: 
-    ```roomsql
+    ```sql
      INSERT INTO students VALUES(1, 'pk', 'erbynn', 'john.erbynn@turntabl.io', 82.5);
     ```
 * Fetch all records with SELECT query.
-    ```roomsql
+    ```sql
       SELECT * FROM students;
     ```
 * Show only the first names and emails of all students.
@@ -52,6 +52,7 @@
 * Display the student with the high score.
 * What is the total score of all the studSQLs?
  JDBC driver is needed.
+ 
  
 ### Connecting DB to Java using JDBC
 We'll learn how to use a database from a Java Application. We can achieve that using the JDBC - Java Database Connectivity.
@@ -71,8 +72,52 @@ Now, let's setup guide...
 ```java
     public static final String CONNECTION_STRING = "jdbc:postgresql://localhost:5432/learnwebdb-play?user=postgres&password=turntabl";
 ```
-* Sample complete java code.
+* Below is a sample java implementation code snippet...
+```java
+package com.pkerbynn;
+
+import java.sql.*;
+
+public class Main {
+
+    public static void main(String[] args) {
+        try{
+            Connection conn = DriverManager.getConnection("jdbc:postgresql://localhost:5432/learnwebdb-play?user=postgres&password=turntabl");
+            Statement statement = conn.createStatement();
+
+            statement.execute("DROP TABLE IF EXISTS students");
+            statement.execute("CREATE TABLE IF NOT EXISTS students (student_id INTEGER, student_first_name TEXT,student_last_name TEXT, student_email TEXT, student_score INTEGER)");
+
+            statement.execute("INSERT INTO students(student_id, student_first_name, student_last_name, student_email, student_score) " +
+                                "VALUES(1, 'pkay', 'erbynn', 'erbynn@gmail.com', 96)");
+            statement.execute("INSERT INTO students(student_id, student_first_name, student_last_name, student_email, student_score) " +
+                                "VALUES(1, 'anthony', 'bills', 'anthony@gmail.com', 92)");
+            statement.execute("INSERT INTO students(student_id, student_first_name, student_last_name, student_email, student_score) " +
+                                "VALUES(1, 'margaret', 'erbynn', 'margaret@gmail.com', 98)");
+//            statement.execute("UPDATE students SET student_score=99 WHERE student_first_name='pkay'");
+//            statement.execute("DELETE students WHERE student_id=1");
+
+            ResultSet results = statement.executeQuery("SELECT * FROM students");
+            while (results.next()){
+                System.out.println(
+                        results.getString("student_first_name") + ", " +
+                        results.getString("student_email") + ", " +
+                        results.getString("student_score"));
+            }
+
+            // order of closing resources is important
+            results.close();
+            statement.close();
+            conn.close(); // can be fixed with try-with resource
+        } catch (SQLException e){
+            System.out.println("Something went wrong: " + e.getMessage());
+        }
+    }
+}
+```
+
 ---
+
 * Stretch 
     * Below an illustration of entity relation join
     
