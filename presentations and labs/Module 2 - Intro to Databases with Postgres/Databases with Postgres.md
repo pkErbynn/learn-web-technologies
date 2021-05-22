@@ -51,7 +51,6 @@
 * Show a student with a particular first name using the WHERE clause.
 * Display the student with the high score.
 * What is the total score of all the studSQLs?
- JDBC driver is needed.
  
  
 ### Connecting DB to Java using JDBC
@@ -72,7 +71,7 @@ Now, let's setup guide...
 ```java
     public static final String CONNECTION_STRING = "jdbc:postgresql://localhost:5432/learnwebdb-play?user=postgres&password=turntabl";
 ```
-* Below is a sample java implementation code snippet...
+* Below is a sample java implementation code snippet :slightly_smiling_face:...
 ```java
 package com.pkerbynn;
 
