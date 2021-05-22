@@ -60,11 +60,13 @@ Using JDBC, we can not only work with databases, but also spreadsheets and flat 
 JDBC acts as the middleman between a Java application and a data source. Also, a particular data source from an application, a JDBC driver for that data source is needed.
 For example, to access a postres database from a an application (with Java), we need an Postgres JDBC driver. Similarly, for sqlite database, an SQLite JDBC driver is needed.
 
-The driver is simply a Java library containing classes that implement the JDBC API. 
-Special and key advantage of using JDBC drivers is that since all JDBC drivers (sqliteJDBC, postgresJDBC) have to implement the same interfaces of the JDBC API, it's not difficult to change the data source an application uses.  
+The *driver* is simply a Java library containing classes that implement the JDBC API. 
+Special and key advantage of using JDBC drivers is that since all JDBC drivers (sqliteJDBC, postgresJDBC) have to implement the same interfaces of the JDBC API, it's not difficult to change the data source an application uses (not that simple in reality :)).  
 
-* Download JDBC Driver for Postgres. Select 'PostgreSQL JDBC 4.2 Driver, 42.2.20' from the link - https://jdbc.postgresql.org/download.html 
-
+Now, let's setup guide...
+* Download JDBC driver for Postgres. Select 'PostgreSQL JDBC 4.2 Driver, 42.2.20' from the link - https://jdbc.postgresql.org/download.html 
+* Create a new Java project. I used IntelliJ IDEA in my case.
+* Add the JDBC driver to the java project. Go to *File > Project Structure > Libraries > "+" > Java > <the downloaded jdbc jar file> > Ok > Ok*. Now it's accessible in our application.
 
 * Stretch 
     * Below an illustration of entity relation join
