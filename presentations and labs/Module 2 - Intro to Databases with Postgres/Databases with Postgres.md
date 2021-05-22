@@ -67,7 +67,12 @@ Now, let's setup guide...
 * Download JDBC driver for Postgres. Select 'PostgreSQL JDBC 4.2 Driver, 42.2.20' from the link - https://jdbc.postgresql.org/download.html 
 * Create a new Java project. I used IntelliJ IDEA in my case.
 * Add the JDBC driver to the java project. Go to *File > Project Structure > Libraries > + > Java > <the_downloaded_jdbc_jar_file> > OK > OK*. Now, the driver library is accessible in our application and can be connected using a Connectiong String (format *jdbc:<driver_type>:<database_path>*)
-
+* Connect to the database from the application. Sample format: `JDBC_URL = "jdbc:postgresql://localhost:5432/<DB_NAME>?user=<USER_NAME>&password=<YOUR_PASSWORD>";`
+```java
+    public static final String CONNECTION_STRING = "jdbc:postgresql://localhost:5432/learnwebdb-play?user=postgres&password=turntabl";
+```
+* Sample complete java code.
+---
 * Stretch 
     * Below an illustration of entity relation join
     
