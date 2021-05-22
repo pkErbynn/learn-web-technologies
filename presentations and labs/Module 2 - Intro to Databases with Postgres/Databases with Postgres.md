@@ -50,7 +50,18 @@
 * Show only the last names and emails of the first three students.
 * Show a student with a particular first name using the WHERE clause.
 * Display the student with the high score.
-* What is the total score of all the students?
+* What is the total score of all the studSQLs?
+ JDBC driver is needed.
+ 
+### Connecting DB to Java using JDBC
+We'll learn how to use a database from a Java Application. We can achieve that using the JDBC - Java Database Connectivity.
+Using JDBC, we can not only work with databases, but also spreadsheets and flat files.
+JDBC acts as the middleman between a Java application and a data source. Also, a particular data source from an application, a JDBC driver for that data source is needed.
+For example, to access a postres database from a an application (with Java), we need an Postgres JDBC driver. Similarly, for sqlite database, an SQLite JDBC driver is needed.
+ 
+* Download JDBC Driver for Postgres. Select 'PostgreSQL JDBC 4.2 Driver, 42.2.20' from the link - https://jdbc.postgresql.org/download.html 
+
+
 * Stretch 
     * Below an illustration of entity relation join
     
